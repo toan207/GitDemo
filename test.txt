@@ -1,2 +1,1 @@
-test git
-update more info
+remove all info
