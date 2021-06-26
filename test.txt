@@ -3,7 +3,5 @@ Toan want to add sth
 update text
 Toan update text
 Toan remove something
-Tu updated something
-Tu want to delete sth
-123
-asdshdkjsahdksa
+
+Toan deleted something
